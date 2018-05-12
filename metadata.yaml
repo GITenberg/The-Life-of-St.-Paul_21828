@@ -1,0 +1,34 @@
+_repo: The-Life-of-St.-Paul_21828
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: White, Wilbert W. (Wilbert Webster)
+    alias: White, W. W. (Wilbert Webster)
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '36612'
+    url: http://www.gutenberg.org/2009/agents/36612
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stalker, James
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '24905'
+    url: http://www.gutenberg.org/2009/agents/24905
+description: ''
+gutenberg_issued: '2007-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Paul, the Apostle, Saint'
+title: The Life of St. Paul
+url: http://www.gutenberg.org/ebooks/21828
