@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '24905'
     url: http://www.gutenberg.org/2009/agents/24905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21828#The-Life-of-St.-Paul
 gutenberg_issued: '2007-06-14'
 gutenberg_type: Text
 identifiers:
